@@ -1,0 +1,74 @@
+//Welcome
+<!DOCTYPE html>
+
+<html lang="en-In">
+<head>
+<div style="background-image:url('bakk.jpg');">
+<style>
+h1 {font-family: verdana}
+h2 {color:tomato;font-family: verdana; text-align:center}
+h3 {color:rgb(125, 80, 160);font-family: verdana}
+p {font-family:calibri}
+table {font-family:calibri; text-align:center}
+th, td {
+  border: 1px solid black;
+  border-radius: 10px; 
+  padding:10px;
+}
+
+</style>
+<title>Welcome Akash : To the World of coding</title>
+</head>
+<h1 style="color:slateblue;">Akash Raj</h1>
+
+<strong><i>Passion at work!</i></strong>
+<!-- Above text represents my motive-->
+<hr>
+
+<body style="background-color:lightgreen;">
+<img src="Photo_Akash Raj.jpg" alt="Profile photo" width="110" height="150" border="3">
+<p>Hi, everyone. Welcome to my webpage.</p>
+<p>To know more about me, checkout my LinkedIn profile.</p>
+<a href="https://www.linkedin.com/in/akash-raj-icon/" target="blank"> Use this link to access my LinkedIn profile</a>
+<h2>Experience</h2>
+<hr>
+<h3>Associate Engineer</h3>
+<p>ECS Fin., Trivandrum <i> (Sep, 2021- Present)</i> </p>
+<h2>Education</h2>
+<hr>
+<h3>M.Tech in Production Engineering</h3>
+<p>Government Engineering College, Thrissur <i>(2019-2021)</i></p>
+<h3>B.Tech in Mechanical Engineering</h3>
+<p>Government Engineering College, Thrissur <i>(2015-2019)</i></p>
+<h2>Skills</h2>
+<hr>
+<table style="width:35%";>
+<tr>
+<td>Communication</td>
+<td>Strong presenter</td>
+<td>Problem Solving</td>
+</tr>
+<tr>
+<td>MATLAB</td>
+<td>C++</td>
+<td>ANSYS</td>
+</tr>
+<tr>
+<td>Presentation Skills</td>
+<td>Teamwork</td>
+<td>SolidWorks</td>
+</tr>
+</table>
+<h2>Projects</h2>
+<hr>
+<dl>
+<dt><h3> Surface modification of Titanium biomedical implants by PVD coating <i>(10/2020 - 08/2021)</i></h3></dt>
+<dd><p>-	Performed laser texturing and Antibacterial PVD coating on implants to reduce chances of implant failure.</p></dd>
+<dt><h3>Simulation on sound source localization using Acoustic Camera <i>(01/2020 - 05/2020)</i></h3></dt>
+<dd><p>-	Compared different algorithms used for sound source localisation with the help of MATLAB (audiotool box).</p></dd>
+<dt><h3>Finite Element Analysis of Sheet metal Bending <i>(08/2018 - 04/2019)</i></h3></dt>
+<dd><p>-	Developed a 3D model of machine that can perform multiple sheet metal operations like cutting, drilling and bending in a same machine.</p></dd>
+</dl>
+
+</body>
+</html>
