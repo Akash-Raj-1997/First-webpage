@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome Akash : To the World of coding</title>
+</head>
+<h1>Akash Raj</h1>
+<body>
+<img src="Photo_Akash Raj.jpg" alt="Akash Raj" width="104" height="142">
+<p>Hi, everyone. Welcome to my own webpage.</p>
+<p>To know more about me, checkout my LinkedIn profile.</p>
+</body>
+</html>
